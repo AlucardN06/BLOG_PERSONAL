@@ -1,0 +1,55 @@
+body
+{
+	background-color: black;
+}
+
+.letrablanca
+{
+	color: white;
+	font-family: Copperplate Gothic Bold;
+	
+}
+#imagencentro
+{
+	
+display:block;
+margin:auto;
+}
+.imagenes
+{
+	 height: 250px;
+	 display:block;
+	 border: 2px solid #fff;
+	 margin: auto;
+}
+.imagenfinal
+{
+    
+    height: 150px;
+    border-radius: 50%;
+    border:2px solid #fff;
+    display:block;
+	margin:auto;
+}
+.final
+{
+font-size: 25px;
+color: white;
+font-family: Harlow Solid Italic ;
+text-align:center;
+}
+.titulos
+{
+font-size:50px;
+color: white;
+font-family: Harlow Solid Italic ;
+text-align:center;
+}
+.letrablanca:hover
+{
+color: red;
+}
+#tabla
+{
+margin:auto;
+}
